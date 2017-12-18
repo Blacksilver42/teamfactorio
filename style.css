@@ -1,0 +1,17 @@
+.team {
+	border-right: 1px solid lightgray;
+	padding-right: 5px;
+}
+
+.memb {
+	padding-left: 5px;
+}
+
+.last, .team {
+	border-bottom: 1px solid black;
+}
+
+body {
+	padding: 5px;
+}
+
